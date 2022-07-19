@@ -6,5 +6,6 @@ public class Practice6test {
 @Test
 	public static void test() {
 		System.out.println("Test_06");
+		System.out.println("Test_06_62");
 	}
 }
