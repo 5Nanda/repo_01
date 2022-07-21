@@ -8,6 +8,8 @@ public class Practice1test{
 public static void test() {
 	System.out.println("Test_01_10");
 	System.out.println("Test_01_11")
+	System.out.println("Test_01");
+	System.out.println("Test_01_11");
 	String BROWSER = System.getProperty("browser");
 	
 	System.out.println(BROWSER);
